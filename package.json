@@ -1,0 +1,7 @@
+{
+    "name": "image-summarizer",
+    "main": "index.mjs",
+    "dependencies": {
+        "@aws-sdk/client-s3": "^3.171.0"
+    }
+}
